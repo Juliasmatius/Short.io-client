@@ -9,8 +9,14 @@ Main exe/main.py needs to be in the same folder as a file called "qr.png" or the
 
 ## How to setup
 In main.py there are two things you need to configure. Your domain and auth token.
+
+
 ![image](https://github.com/Juliasmatius/Short.io-client/assets/80146546/bcd4cf37-377f-49eb-9f0f-7bf70117e5e3)
+
+
 On the short.io dashboard this is your domain.
+
+
 ![image](https://github.com/Juliasmatius/Short.io-client/assets/80146546/d4268144-4203-457d-bf72-a011c1128717)
 
 To find the api key follow these steps
